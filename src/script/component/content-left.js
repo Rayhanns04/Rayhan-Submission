@@ -23,7 +23,7 @@ class ContentLeft extends HTMLElement {
             
             #col-1 {
                 flex: 1;
-                background-image: url(../assets/Liquid.png);
+                background-image: url(/src/assets/Liquid.png);
                 background-repeat: no-repeat;
                 background-size: 16.7vw;
                 background-position-x: center;
